@@ -12,3 +12,10 @@
    -- Nesse projeto extraimos os dados para o python para tratar esse dados, fazer conversões de tipo de dados,verificando em porcentagem os dados extraidos,formatando os dados, exclusão de dados em campos vazios, e trabalhar com graficos para analise detalhados dos dados aonde criamos e exibimos os graficos. <br>
    -- Usamos uma biblioteca plotly para graficos.<br>
    -- Conclusão e Açoes que podemos tomar apos analise dos graficos. 
+
+
+## Projeto de Automação Web e Busca de Informações com Python (WEB SCRAPING)
+  -- Nesse Desafio é necessario atualizar as cotações do Dolar, Euro e Ouro buscando automaticamnte na internet a cotação atual do dia e atualizando seus valores automaticamnete nas colunas 
+  -- Iremos usar a biblioteca selenium que é aquela que controla a navegação na WEB atraves dos comandos e cordenadas
+   
+
