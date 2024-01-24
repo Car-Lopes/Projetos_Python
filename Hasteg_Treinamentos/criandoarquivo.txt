@@ -1,0 +1,3 @@
+Criei um arquivo usando Python
+Mais uma linha no arquivo usando Python
+Mais uma linha que foi adicionada com python
